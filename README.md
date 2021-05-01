@@ -1,5 +1,5 @@
 -  Hi, I’m @rickscode
--  I’m interested in solving problems with code and travelling.
+-  I’m interested in travelling and solving problems with code and technology.
 -  I'm currently working as Junior Developer in Fin-Tech.
 -  I’m currently learning Full Stack Web Development and System Design.
 
