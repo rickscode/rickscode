@@ -1,4 +1,4 @@
--  Hi, I’m @rickscode
+-  Hi, I’m Rick
 -  I’m interested in travelling and solving problems with code and technology.
 -  I'm working as a Web Developer in Fin-Tech and also volunteer with Code Your Future.
 -  I’m also still self-learning Full Stack Web Development, SDLC methods, and System Design.
