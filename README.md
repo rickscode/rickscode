@@ -1,7 +1,7 @@
 -  Hi, I’m Rick
 -  I’m interested in travelling and solving problems with code and technology.
--  I work as a Dev in Fin-Tech and also volunteer with Code Your Future.
--  I’m also still self-learning Web Development and Solutions Architecture.
+-  I work as a Dev in Fin-Tech and also volunteered with Code Your Future.
+-  I’m still self-learning Web Development and Solutions Architecture.
 
 
 <!---
