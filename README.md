@@ -1,6 +1,6 @@
 -  Hi, I’m Rick
--  I’m interested in travelling thw world and solving business problems with programming, and automated solutions.
--  I work as a Dev in Fin-Tech and also volunteered previosly with Code Your Future in the UK.
+-  I’m interested in tech, ai, finance, travelling the world and solving business problems with ai, programming, and automated solutions.
+-  Ive worked multiple roles in Fin-Tech and education having also volunteered previosly with Code Your Future in the UK and taught in South East Asia.
 -  I’m still constantly learning and trying to become better at Programming and life.
 
 
