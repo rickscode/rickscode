@@ -1,5 +1,5 @@
--  Hi, I’m Rick
--  I’m interested in tech, ai, finance, travelling the world and solving business problems with ai, programming, and automated solutions.
+-  Hi
+-  I’m interested in tech, ai, finance, travelling the world and solving business problems with ai, and automated solutions.
 -  I believe in continuous learning and trying to become better at life, programming automation and business.
 
 
