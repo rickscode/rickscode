@@ -1,6 +1,6 @@
 -  Hi
--  I’m interested in travelling the world and solving problems with ai, and automated solutions.
--  I believe in continuous learning and trying to become better at life.
+-  I’m interested in solving problems with computer science, ai, and automated solutions.
+-  I believe in continuous learning.
 
 
 <!---
