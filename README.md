@@ -1,1 +1,1 @@
-Currently focused on applied AI, agent systems, and finance automations.
+Currently focused on applied agentic AI.
