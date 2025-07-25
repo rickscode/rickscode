@@ -1,1 +1,1 @@
-Currently focused on applied agentic AI.
+Currently focused on financial intelligence applied agentic AI.
