@@ -1,4 +1,4 @@
-Currently focused on financial intelligence applied agentic AI.
+Build > Learn > Repeat
 
 https://x.com/hackseastrategy
 
